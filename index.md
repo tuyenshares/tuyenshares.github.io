@@ -2,10 +2,10 @@
 
 ---
 
-### Exploring the Crunchbase dataset
+### Project 1 - Exploring the Crunchbase dataset
 
 [Dashboard](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Dashboard2.png?raw=true"/>
 
 
 
