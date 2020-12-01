@@ -1,10 +1,10 @@
 title: Thanh-Tuyen Nguyen-Tran # your name (or website title) here
 logo: "/images/Profile_photo_round.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Corporate lawyer turned student of data. I'm currently interested in data analysis in applied neuroscience and mindfulness.  
+  Corporate lawyer turned student of data. I'm currently also interested in data analysis in mental health care and mindfulness.  
   <br><br>
  
-  <a href="https://www.linkedin.com/in/nguyentranthanhtuyen/">More info on my LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/nguyentranthanhtuyen/">More on my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: # your Google Analytics tracking ID here
