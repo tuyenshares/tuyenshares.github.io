@@ -1,5 +1,7 @@
 ## Portfolio
 
+Welcome to my portfolio page where you can find my learning project in data analysis. 
+
 ---
 
 ### Project 1 - Exploring the Crunchbase dataset with SQL
