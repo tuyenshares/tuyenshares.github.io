@@ -1,6 +1,6 @@
 ## Portfolio
 
-Welcome to my portfolio page where you can find my learning project in data analysis. 
+Welcome to my portfolio page where you can find my learning projects in data analysis. 
 
 ---
 
