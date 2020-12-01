@@ -15,7 +15,7 @@ This free dataset starts in 1960 and is current as of October 2013 (before Crunc
 
 This is the interactive dashboard with the end results after analysis using SQL. 
 
-![Dashboard](images/Dashboard2.png)
+![Dashboard](/images/Dashboard2.png)
 
 For more details on the SQL analysis see [this repository](https://github.com/tuyenshares/exploring-crunchbase-sql).
 
