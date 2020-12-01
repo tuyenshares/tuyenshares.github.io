@@ -6,7 +6,7 @@ Welcome to my portfolio page where you can find my learning projects in data ana
 
 ### Project 1 
 
-[Exploring the Crunchbase dataset with SQL](pages/crunchbase)
+[Exploring the Crunchbase dataset with SQL](pages/crunchbase.md)
 <img src="images/Dashboard2.png?raw=true"/>
 
 
