@@ -2,10 +2,16 @@
 
 **Project description**
 
-The data came from [Crunchbase](https://www.crunchbase.com/) and was extracted via [Kaggle](https://www.kaggle.com/arindam235/startup-investments-crunchbase). It was collected on 17 November 2020.
-This free dataset starts in 1960 and is current as of October 2013 (before Crunchbase switched to a paid API model).
+In this project, I explored the [Crunchbase](https://www.crunchbase.com/) dataset which contains information about startups, founders and investors. 
+
+The whole dataset was extracted via [Kaggle](https://www.kaggle.com/arindam235/startup-investments-crunchbase) on 17 November 2020.
+It starts in 1960 and is current as of October 2013 (before Crunchbase switched to its current paid API model).
+
+ 
 
 **Main questions** 
+
+The idea is to find out what were 
 
 1. What type of funding is the most frequent through time? What type of funding does raise the highest amount?
 2. What kind of categories/industries attracted the highest amount of investment?
