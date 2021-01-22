@@ -23,9 +23,7 @@ I was focusing on these 3 questions:
 
 **Results**
 
-This is the interactive dashboard using Power BI. 
-
-[Presentation](/pdf/Capstone3.pdf)
+This is the [presentation](/pdf/Capstone3.pdf) based on an interactive dashboard using Power BI. 
 
 
 
