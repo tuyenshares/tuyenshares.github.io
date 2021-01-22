@@ -25,12 +25,12 @@ I was focusing on these 3 questions:
 
 This is the interactive dashboard using Power BI. 
 
-![Dashboard](/images/Capstone1-1.png)
-(/images/Capstone1-2.png)
-(/images/Capstone1-3.png)
-(/images/Capstone1-4.png)
-(/images/Capstone1-5.png)
-(/images/Capstone1-6.png)
+<img src="images/Capstone3-1.png?raw=true"/>
+<img src="images/Capstone3-2.png?raw=true"/>
+<img src="images/Capstone3-3.png?raw=true"/>
+<img src="images/Capstone3-4.png?raw=true"/>
+<img src="images/Capstone3-5.png?raw=true"/>
+<img src="images/Capstone3-6.png?raw=true"/>
 
 The source of the project can be found here.
 
