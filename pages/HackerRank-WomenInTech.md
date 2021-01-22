@@ -25,7 +25,7 @@ I was focusing on these 3 questions:
 
 This is the interactive dashboard using Power BI. 
 
-![Presentation](/pdf/Capstone3.pdf)
+[Presentation](/pdf/Capstone3.pdf)
 
 
 
