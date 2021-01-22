@@ -1,11 +1,11 @@
-## Amalysing the HackerRank Developer Survey with a gender-focus perspective to empower more women in tech
+## Analysing the HackerRank Developer Survey with a gender-focus perspective to empower more women in tech
 
 
 **Project description**
 
 In this project, I explored the data from [HackerRank](https://www.hackerrank.com/). 
 
-The dataset was extracted from [Kaggle](https://www.kaggle.com/hackerrank/developer-survey-2018.
+The dataset was extracted from [Kaggle](https://www.kaggle.com/hackerrank/developer-survey-2018).
 
 
  
