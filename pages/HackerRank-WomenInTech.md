@@ -18,17 +18,18 @@ I was focusing on these 3 questions:
 
 1. What is the situation of the gender gap in the tech industry?
 2. Is there any variable explaning the situation?
-3. What can be done? 
+3. What actions can be taken? 
 
 
 **Results**
 
 This is the interactive dashboard using Power BI. 
 
-![Dashboard](/images/Capstone1-1.png)
+![Presentation](/pdf/Capstone3.pdf)
 
 
 
-The source of the project can be found here.
+The source of the project can be found [here].
+
 
 [Back to the portfolio](https://tuyenshares.github.io/)
