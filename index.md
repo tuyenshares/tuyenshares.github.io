@@ -13,9 +13,9 @@ Welcome to my portfolio page where you can find my learning projects in data ana
 
 | | |
 | ----------- | ----------- |
-|[<img src="images/Capstone3-1.png" width="70%">](/pages/HackerRank-WomenInTech.md)  | [<img src="images/Capstone3-2.png" width="70%">](/pages/HackerRank-WomenInTech.md)  |
-| [<img src="images/Capstone3-3.png" width="70%">](/pages/HackerRank-WomenInTech.md)  | [<img src="images/Capstone3-4.png" width="70%">](/pages/HackerRank-WomenInTech.md)  |
-| [<img src="images/Capstone3-5.png" width="70%">](/pages/HackerRank-WomenInTech.md) | [<img src="images/Capstone3-6.png" width="70%">](/pages/HackerRank-WomenInTech.md) |
+|[<img src="images/Capstone3-1.png">](/pages/HackerRank-WomenInTech.md)  | [<img src="images/Capstone3-2.png">](/pages/HackerRank-WomenInTech.md)  |
+| [<img src="images/Capstone3-3.png">](/pages/HackerRank-WomenInTech.md)  | [<img src="images/Capstone3-4.png">](/pages/HackerRank-WomenInTech.md)  |
+| [<img src="images/Capstone3-5.png">](/pages/HackerRank-WomenInTech.md) | [<img src="images/Capstone3-6.png">](/pages/HackerRank-WomenInTech.md) |
 
 
 ---
