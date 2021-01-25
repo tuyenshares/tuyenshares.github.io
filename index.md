@@ -4,7 +4,7 @@ Welcome to my portfolio page where you can find my learning projects in data ana
 
 ---
 
-### Visualisation projects
+### Data visualisation
 
 #### [Analising the Crunchbase dataset with SQL](pages/crunchbase.md)
 [<img src="images/Dashboard2.png" width="75%">](pages/crunchbase.md)
@@ -20,6 +20,6 @@ Welcome to my portfolio page where you can find my learning projects in data ana
 
 ---
 
-### Other data analytics projects 
+### Other data projects 
 
 #### [Exploring the CIA factbook with SQL & Jupyter](https://github.com/tuyenshares/exploring-CIA-factbook-using-SQL)
