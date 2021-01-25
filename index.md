@@ -6,10 +6,10 @@ Welcome to my portfolio page where you can find my learning projects in data ana
 
 ### Data visualisation
 
-#### [Analising the Crunchbase dataset with SQL](pages/crunchbase.md)
+#### [Analysing the Crunchbase dataset with SQL](pages/crunchbase.md)
 [<img src="images/Dashboard2.png" width="75%">](pages/crunchbase.md)
 
-#### [Empowering more women in the tech industry - Insights from a gender-focus analysis of the HackerRank Developer Survey](/pages/HackerRank-WomenInTech.md)
+#### [Empowering more women in the tech industry - Insights from a gender-focus perspective of the HackerRank Developer Survey](/pages/HackerRank-WomenInTech.md)
 
 | | |
 | ----------- | ----------- |
