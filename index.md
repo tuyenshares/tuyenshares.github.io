@@ -1,6 +1,12 @@
 ## Portfolio
 
-Welcome to my portfolio page where you can find my learning projects in data analysis. 
+Welcome to my portfolio page where you can find my learning projects in data analytics. 
+
+---
+
+### Machine learning
+
+#### [Predicting stroke using machine learning in Python](https://github.com/tuyenshares/predicting_stroke)
 
 ---
 
