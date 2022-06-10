@@ -1,6 +1,6 @@
-## Portfolio
+## Personal repository
 
-Welcome to my portfolio page where you can find some of my learning projects in data analytics and neuroscience. 
+Some learning projects in data analytics and neuroscience. 
 
 ---
 
