@@ -6,7 +6,11 @@ Welcome to my portfolio page where you can find my learning projects in data ana
 
 ### Master of Applied Neuroscience - Research and synoptic projects
 
-#### [Synoptic Project]
+
+#### [Synoptic Project 1](https://github.com/tuyenshares/tuyenshares.github.io/blob/e296ae7f1cd0f4d5c9b58fd0be0e13e561700c70/pdf/SP1.pdf)
+
+#### [Synoptic Project 2]
+
 
 #### [Research Skills: From Reviewing and Critical Analysis to Research Ethics - Coursework 1]
 
