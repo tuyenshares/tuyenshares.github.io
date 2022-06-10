@@ -14,7 +14,7 @@ Welcome to my portfolio page where you can find my learning projects in data ana
 
 #### [Research Skills: From Reviewing and Critical Analysis to Research Ethics - Coursework 1](https://github.com/tuyenshares/tuyenshares.github.io/blob/bc8c6d1e5080b2f85b6d5313897f1af11bb53e11/pdf/RS1_CW1.pdf)
 
-#### [Research Skills: From Reviewing and Critical Analysis to Research Ethics - Coursework 2]
+#### [Research Skills: From Reviewing and Critical Analysis to Research Ethics - Coursework 2](https://github.com/tuyenshares/tuyenshares.github.io/blob/d61da5cb9529fa41ef393248d069189874c3ac6c/pdf/RS1_CW2.pdf)
 
 #### [Research Skills: from Methods and Procedures to Analysis and Reporting - Coursework 1](https://github.com/tuyenshares/tuyenshares.github.io/blob/bc8c6d1e5080b2f85b6d5313897f1af11bb53e11/pdf/RS2_CW1.pdf)
 
