@@ -1,6 +1,25 @@
 ## Portfolio
 
-Welcome to my portfolio page where you can find my learning projects in data analytics. 
+Welcome to my portfolio page where you can find my learning projects in data analytics and neuroscience. 
+
+---
+
+### Master of Applied Neuroscience - Research and synoptic projects
+
+#### [Synoptic Project]
+
+#### [Research Skills: From Reviewing and Critical Analysis to Research Ethics - Coursework 1]
+
+#### [Research Skills: From Reviewing and Critical Analysis to Research Ethics - Coursework 2]
+
+#### [Research Skills: from Methods and Procedures to Analysis and Reporting - Coursework 1]
+
+#### [Research Skills: from Methods and Procedures to Analysis and Reporting - Coursework 1]
+
+
+#### [Portfolio of Applied Learning]
+
+---
 
 ---
 
