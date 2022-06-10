@@ -9,16 +9,16 @@ Welcome to my portfolio page where you can find my learning projects in data ana
 
 #### [Synoptic Project 1](https://github.com/tuyenshares/tuyenshares.github.io/blob/e296ae7f1cd0f4d5c9b58fd0be0e13e561700c70/pdf/SP1.pdf)
 
-#### [Synoptic Project 2]
+#### [Synoptic Project 2](https://github.com/tuyenshares/tuyenshares.github.io/blob/bc8c6d1e5080b2f85b6d5313897f1af11bb53e11/pdf/SP2.pdf)
 
 
-#### [Research Skills: From Reviewing and Critical Analysis to Research Ethics - Coursework 1]
+#### [Research Skills: From Reviewing and Critical Analysis to Research Ethics - Coursework 1](https://github.com/tuyenshares/tuyenshares.github.io/blob/bc8c6d1e5080b2f85b6d5313897f1af11bb53e11/pdf/RS1_CW1.pdf)
 
 #### [Research Skills: From Reviewing and Critical Analysis to Research Ethics - Coursework 2]
 
-#### [Research Skills: from Methods and Procedures to Analysis and Reporting - Coursework 1]
+#### [Research Skills: from Methods and Procedures to Analysis and Reporting - Coursework 1](https://github.com/tuyenshares/tuyenshares.github.io/blob/bc8c6d1e5080b2f85b6d5313897f1af11bb53e11/pdf/RS2_CW1.pdf)
 
-#### [Research Skills: from Methods and Procedures to Analysis and Reporting - Coursework 1]
+#### [Research Skills: from Methods and Procedures to Analysis and Reporting - Coursework 2](https://github.com/tuyenshares/tuyenshares.github.io/blob/bc8c6d1e5080b2f85b6d5313897f1af11bb53e11/pdf/RS2_CW2.pdf)
 
 
 #### [Portfolio of Applied Learning]
