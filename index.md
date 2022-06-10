@@ -1,15 +1,14 @@
 ## Portfolio
 
-Welcome to my portfolio page where you can find my learning projects in data analytics and neuroscience. 
+Welcome to my portfolio page where you can find some of my learning projects in data analytics and neuroscience. 
 
 ---
 
-### Master of Applied Neuroscience - Research and synoptic projects
+### Master of Applied Neuroscience - Research skills and synoptic projects
 
-
-#### [Synoptic Project 1](https://github.com/tuyenshares/tuyenshares.github.io/blob/e296ae7f1cd0f4d5c9b58fd0be0e13e561700c70/pdf/SP1.pdf)
-
-#### [Synoptic Project 2](https://github.com/tuyenshares/tuyenshares.github.io/blob/bc8c6d1e5080b2f85b6d5313897f1af11bb53e11/pdf/SP2.pdf)
+#### [Synoptic Project - The role of the insula in processing fair and unfair distributions in the light of the reward-risk prediction model]
+#### [Part 1](https://github.com/tuyenshares/tuyenshares.github.io/blob/e296ae7f1cd0f4d5c9b58fd0be0e13e561700c70/pdf/SP1.pdf)
+#### [Part 2](https://github.com/tuyenshares/tuyenshares.github.io/blob/bc8c6d1e5080b2f85b6d5313897f1af11bb53e11/pdf/SP2.pdf)
 
 
 #### [Research Skills: From Reviewing and Critical Analysis to Research Ethics - Coursework 1](https://github.com/tuyenshares/tuyenshares.github.io/blob/bc8c6d1e5080b2f85b6d5313897f1af11bb53e11/pdf/RS1_CW1.pdf)
