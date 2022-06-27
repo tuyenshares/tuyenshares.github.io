@@ -15,7 +15,7 @@ Some learning projects in data analytics and neuroscience.
 
 
 #### [Portfolio of Applied Learning - The role of the insula in processing fair and unfair distributions in the light of the reward-risk prediction model] 
-<img src="images/PAL_Presentation.png" width="45%">
+<img src="images/PAL_Presentation.png" width="50%">
 
 ---
 
